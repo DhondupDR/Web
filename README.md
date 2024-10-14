@@ -96,17 +96,17 @@
 
     <section class="large-images fade-in">
         <div class="gallery">
-            <img src="large-image1.jpg" alt="Large Image 1">
-            <img src="large-image2.jpg" alt="Large Image 2">
+            <img src="images/large-image1.jpg" alt="Large Image 1">
+            <img src="images/large-image2.jpg" alt="Large Image 2">
         </div>
     </section>
 
     <section class="small-images slide-up">
         <div class="gallery">
-            <img src="small-image1.jpg" alt="Small Image 1">
-            <img src="small-image2.jpg" alt="Small Image 2">
-            <img src="small-image3.jpg" alt="Small Image 3">
-            <img src="small-image4.jpg" alt="Small Image 4">
+            <img src="images/small-image1.jpg" alt="Small Image 1">
+            <img src="images/small-image2.jpg" alt="Small Image 2">
+            <img src="images/small-image3.jpg" alt="Small Image 3">
+            <img src="images/small-image4.jpg" alt="Small Image 4">
         </div>
     </section>
 
@@ -115,3 +115,4 @@
     </footer>
 </body>
 </html>
+
